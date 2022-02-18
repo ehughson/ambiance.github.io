@@ -1,25 +1,5 @@
 ## Welcome to GitHub Pages
 
-<p float="left">
-Baseline TTS
-    <audio controls="controls" src="audio/2.m4a">
-    <audio controls="controls" src="audio/2.m4a">
-    <audio controls="controls" src="audio/2.m4a">
-</p>
-<p>Your browser does not support the audio element.</p>
-</audio>
-
-Ambiance 1 TTS
-<audio controls="controls" src="audio/3.m4a">
-<p>Your browser does not support the audio element.</p>
-</audio>
-
-Source: Baseline TTS Target: All Speakers (Ambiance 1)
-<audio controls="controls" src="audio/4.m4a">
-<p>Your browser does not support the audio element.</p>
-</audio>
-
-
 ## Ambiance 1
 Baseline TTS
 <audio controls="controls" src="audio/2.m4a">

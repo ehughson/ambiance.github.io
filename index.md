@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-<img src="images/logo.png" alt="Italian Trulli">
+<img src="images/logo.png" alt="ROSIE lab logo">
 
 
 ## Ambiance 1

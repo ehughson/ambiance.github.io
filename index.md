@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![logo](images/logo.png)
+<img src="images/logo.png" alt="Italian Trulli">
 
 
 ## Ambiance 1

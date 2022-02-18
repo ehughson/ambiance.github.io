@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![logo](https://github.com/ehughson/ambiance.github.io/blob/gh-pages/images/logo.png)
+![logo](images/logo.png)
 
 
 ## Ambiance 1

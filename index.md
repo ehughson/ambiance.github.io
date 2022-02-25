@@ -8,27 +8,32 @@ Ambiance 1 TTS
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-Source: Baseline TTS Target: All Speakers (Ambiance 1)
-<audio controls="controls" src="audio/4.m4a">
+Formal Dining
+<audio controls="controls" src="audio/overlay1.mp3">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-Source: Ambiance 1 TTS Target: All Speakers (Ambiance 1)
-<audio controls="controls" src="audio/5.m4a">
+Cafe
+<audio controls="controls" src="audio/overlay2.mp3">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-Source: Ambiance 1 TTS Target: Cluster 1 (Ambiance 1)
-<audio controls="controls" src="audio/6.m4a">
+Lively Restaurant
+<audio controls="controls" src="audio/overlay3.mp3">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-Source: Ambiance 1 TTS Target: Cluster 2 (Ambiance 1)
-<audio controls="controls" src="audio/7.m4a">
+Quiet Bar
+<audio controls="controls" src="audio/overlay4.mp3">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-Source: Ambiance 1 TTS Target: Single Speaker (Ambiance 1)
-<audio controls="controls" src="audio/8.m4a">
+Noisy Bar
+<audio controls="controls" src="audio/overlay5.mp3">
+<p>Your browser does not support the audio element.</p>
+</audio>
+
+Loud Bar
+<audio controls="controls" src="audio/overlay6.mp3">
 <p>Your browser does not support the audio element.</p>
 </audio>

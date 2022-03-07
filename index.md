@@ -30,7 +30,7 @@
 
 <li> <font size="+1">TTS-bl</font>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1220072293%3Fsecret_token%3Ds-DDRWBfhQUvf&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/emma-hughson" title="Emma Hughson" target="_blank" style="color: #cccccc; text-decoration: none;">Emma Hughson</a> · <a href="https://soundcloud.com/emma-hughson/overlay-tts2/s-DDRWBfhQUvf" title="OT2" target="_blank" style="color: #cccccc; text-decoration: none;">OT2</a></div></li>
-</ul>
+
 </details>
 
 <details>
@@ -45,7 +45,6 @@
 <li> <font size="+1">TTS-bl</font>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1220072284%3Fsecret_token%3Ds-phxUGdWsSKS&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/emma-hughson" title="Emma Hughson" target="_blank" style="color: #cccccc; text-decoration: none;">Emma Hughson</a> · <a href="https://soundcloud.com/emma-hughson/overlay-tts3/s-phxUGdWsSKS" title="OT3" target="_blank" style="color: #cccccc; text-decoration: none;">OT3</a></div></li>
 
-</ul>
 </details>
 
 <details>
@@ -59,7 +58,7 @@
 <li> <font size="+1">TTS-bl</font>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1220072275%3Fsecret_token%3Ds-uE1HEsuP5tL&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/emma-hughson" title="Emma Hughson" target="_blank" style="color: #cccccc; text-decoration: none;">Emma Hughson</a> · <a href="https://soundcloud.com/emma-hughson/overlay-tts4/s-uE1HEsuP5tL" title="OT4" target="_blank" style="color: #cccccc; text-decoration: none;">OT4</a></div></li>
 
-</ul>
+
 </details>
 
 <details>
@@ -74,7 +73,6 @@
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1220072266%3Fsecret_token%3Ds-p8qtPGF37hR&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/emma-hughson" title="Emma Hughson" target="_blank" style="color: #cccccc; text-decoration: none;">Emma Hughson</a> · <a href="https://soundcloud.com/emma-hughson/overlay-tts5/s-p8qtPGF37hR" title="OT5" target="_blank" style="color: #cccccc; text-decoration: none;">OT5</a></div></li>
 
 
-</ul>
 </details>
 
 <details>
@@ -89,8 +87,6 @@
 <li> <font size="+1">TTS-bl</font>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1220072263%3Fsecret_token%3Ds-h1ujYpy9FcF&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/emma-hughson" title="Emma Hughson" target="_blank" style="color: #cccccc; text-decoration: none;">Emma Hughson</a> · <a href="https://soundcloud.com/emma-hughson/overlay-tts6/s-h1ujYpy9FcF" title="OT6" target="_blank" style="color: #cccccc; text-decoration: none;">OT6</a></div></li>
 
-
-</ul>
 
 
 </details>
@@ -108,6 +104,5 @@
 <li> <font size="+1">TTS-high</font>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1220628955%3Fsecret_token%3Ds-ArRFq9gVcFO&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/emma-hughson" title="Emma Hughson" target="_blank" style="color: #cccccc; text-decoration: none;">Emma Hughson</a> · <a href="https://soundcloud.com/emma-hughson/othp2/s-ArRFq9gVcFO" title="OTHP2" target="_blank" style="color: #cccccc; text-decoration: none;">OTHP2</a></div></li>
 
-</ul>
 </details>
 </details>

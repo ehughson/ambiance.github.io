@@ -1,10 +1,11 @@
 
 # Read  the  Room:  Adapting  a  Robot’s  Voice  to  Ambient  and  Social Contexts
 <details>
-<summary> <font size="+10">VOICE SAMPLES</font></summary>
-<ul>
-<li> Voice Conversion Samples</li>
-<ul>
+<summary> <p style="font-family:verdana;font-size:30px">VOICE SAMPLES</p></summary>
+
+<details>
+<summary> Voice Conversion Samples</summary>
+
 <li> <font size="+1">Formal Dining</font>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1220072401%3Fsecret_token%3Ds-WBeLtDrBHxC&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/emma-hughson" title="Emma Hughson" target="_blank" style="color: #cccccc; text-decoration: none;">Emma Hughson</a> · <a href="https://soundcloud.com/emma-hughson/overlay1/s-WBeLtDrBHxC" title="O1" target="_blank" style="color: #cccccc; text-decoration: none;">O1</a></div></li>
 <li> <font size="+1">Cafe</font>
@@ -22,6 +23,8 @@
 <li> <font size="+1">Night Club</font>
 <iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1220072368%3Fsecret_token%3Ds-DbZHSUjynkr&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/emma-hughson" title="Emma Hughson" target="_blank" style="color: #cccccc; text-decoration: none;">Emma Hughson</a> · <a href="https://soundcloud.com/emma-hughson/overlay6/s-DbZHSUjynkr" title="O6" target="_blank" style="color: #cccccc; text-decoration: none;">O6</a></div></li>
 </ul>
-<li> Text-to-Speech Samples</li>
-</ul>
+</details>
+<details>
+<summary> Text-to-Speech Samples</summary>
+</details>
 </details>

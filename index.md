@@ -1,8 +1,7 @@
 
 # Read  the  Room:  Adapting  a  Robot’s  Voice  to  Ambient  and  Social Contexts
 <details open>
-<p style="font-family:verdana;font-size:30px">Voice Samples</p>
-<summary></summary>
+<summary style="font-family:verdana;font-size:30px">Voice Samples</summary>
 
 <details>
 <summary> Voice Conversion Samples</summary>

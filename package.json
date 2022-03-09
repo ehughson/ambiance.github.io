@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://ehughson.github.io/ambiance.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

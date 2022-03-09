@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6e1fce1e.js",
+    "static/js/377.c1855308.chunk.js": "/static/js/377.c1855308.chunk.js",
+    "static/media/us.png": "/static/media/us.282d44a789bb88279c33.png",
+    "static/media/livelyrestaurant.png": "/static/media/livelyrestaurant.03d63aaab080042b9d8b.png",
+    "static/media/cafe.png": "/static/media/cafe.8bed3df9395ecd087831.png",
+    "static/media/noisybar.png": "/static/media/noisybar.236444b79bab28d6776e.png",
+    "static/media/quietbar.png": "/static/media/quietbar.1a13afad4e8f689bab50.png",
+    "static/media/club.png": "/static/media/club.4eb29c86cf4063a9166d.png",
+    "static/media/back.jpg": "/static/media/back.53bc0c5b18f8f16a1d6a.jpg",
+    "static/media/finedining.png": "/static/media/finedining.73394853b3dc81f5f6e5.png",
+    "static/media/nserc.png": "/static/media/nserc.bbc2557a9384bedc2b57.png",
+    "static/media/logo.png": "/static/media/logo.7260a0b0d75c0a79cee2.png",
+    "index.html": "/index.html",
+    "main.6e1fce1e.js.map": "/static/js/main.6e1fce1e.js.map",
+    "377.c1855308.chunk.js.map": "/static/js/377.c1855308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6e1fce1e.js"
+  ]
+}

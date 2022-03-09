@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/ambiance.github.io/static/js/main.8d52dc57.js",
+    "main.js": "/ambiance.github.io/static/js/main.d2d9f4dd.js",
     "static/js/377.c1855308.chunk.js": "/ambiance.github.io/static/js/377.c1855308.chunk.js",
     "static/media/livelyrestaurant.png": "/ambiance.github.io/static/media/livelyrestaurant.03d63aaab080042b9d8b.png",
     "static/media/cafe.png": "/ambiance.github.io/static/media/cafe.8bed3df9395ecd087831.png",
@@ -11,10 +11,10 @@
     "static/media/finedining.png": "/ambiance.github.io/static/media/finedining.73394853b3dc81f5f6e5.png",
     "static/media/logo.png": "/ambiance.github.io/static/media/logo.7260a0b0d75c0a79cee2.png",
     "index.html": "/ambiance.github.io/index.html",
-    "main.8d52dc57.js.map": "/ambiance.github.io/static/js/main.8d52dc57.js.map",
+    "main.d2d9f4dd.js.map": "/ambiance.github.io/static/js/main.d2d9f4dd.js.map",
     "377.c1855308.chunk.js.map": "/ambiance.github.io/static/js/377.c1855308.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8d52dc57.js"
+    "static/js/main.d2d9f4dd.js"
   ]
 }

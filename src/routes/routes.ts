@@ -4,6 +4,7 @@ import { Ambience3 } from '../pages/Ambience3';
 import { Ambience4 } from '../pages/Ambience4';
 import { Ambience5 } from '../pages/Ambience5';
 import { Ambience6 } from '../pages/Ambience6';
+import { HomePage } from '../pages/HomePage';
 
 
 
@@ -18,6 +19,10 @@ export const routePaths = {
 };
 
 export const routes = [
+    {
+        path: routePaths.HOME,
+        Component: HomePage,
+    },
     {
         path: routePaths.AMBIENCE1,
         Component: Ambience1,

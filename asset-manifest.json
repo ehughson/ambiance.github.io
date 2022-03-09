@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ambiance.github.io/static/js/main.339f7252.js",
+    "static/js/377.c1855308.chunk.js": "/ambiance.github.io/static/js/377.c1855308.chunk.js",
+    "static/media/livelyrestaurant.png": "/ambiance.github.io/static/media/livelyrestaurant.03d63aaab080042b9d8b.png",
+    "static/media/cafe.png": "/ambiance.github.io/static/media/cafe.8bed3df9395ecd087831.png",
+    "static/media/noisybar.png": "/ambiance.github.io/static/media/noisybar.236444b79bab28d6776e.png",
+    "static/media/quietbar.png": "/ambiance.github.io/static/media/quietbar.1a13afad4e8f689bab50.png",
+    "static/media/club.png": "/ambiance.github.io/static/media/club.4eb29c86cf4063a9166d.png",
+    "static/media/finedining.png": "/ambiance.github.io/static/media/finedining.73394853b3dc81f5f6e5.png",
+    "static/media/logo.png": "/ambiance.github.io/static/media/logo.7260a0b0d75c0a79cee2.png",
+    "index.html": "/ambiance.github.io/index.html",
+    "main.339f7252.js.map": "/ambiance.github.io/static/js/main.339f7252.js.map",
+    "377.c1855308.chunk.js.map": "/ambiance.github.io/static/js/377.c1855308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.339f7252.js"
+  ]
+}
